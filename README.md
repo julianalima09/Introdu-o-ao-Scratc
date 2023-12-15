@@ -1,1 +1,5 @@
-# Introdu-o-ao-Scratc
+# Introducao ao Scratch
+
+## Equipe: Juliana Lima e Beyoncé
+
+### Professora: Juliana Lima
